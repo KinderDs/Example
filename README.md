@@ -26,7 +26,7 @@
 
 *  customer_state —  штат доставки пользователя
 
-</div>
+
 </details>
 
 <div>
