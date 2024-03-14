@@ -14,7 +14,7 @@
   <br/> 
 <div>
 <details>
-  <summary><b> 🛠 &nbsp;&nbsp;olist_customers_datase.csv — таблица с уникальными идентификаторами пользователей&nbsp;</b></summary>
+  <summary><b>&nbsp;&nbsp;olist_customers_datase.csv — таблица с уникальными идентификаторами пользователей&nbsp;</b></summary>
   
 * customer_id — позаказный идентификатор пользователя
 
@@ -31,7 +31,7 @@
 
 
 <details>
-  <summary><b> 🛠 &nbsp;&nbsp;olist_orders_dataset.csv —  таблица заказов&nbsp;</b></summary>
+  <summary><b>&nbsp;&nbsp;olist_orders_dataset.csv —  таблица заказов&nbsp;</b></summary>
   
 *  order_id —  уникальный идентификатор заказа (номер чека)
 
@@ -52,7 +52,7 @@
 </details>
 
 <details>
-  <summary><b> 🛠 &nbsp;&nbsp;olist_order_items_dataset.csv —  товарные позиции, входящие в заказы&nbsp;</b></summary>
+  <summary><b>&nbsp;&nbsp;olist_order_items_dataset.csv —  товарные позиции, входящие в заказы&nbsp;</b></summary>
   
 *  order_id —  уникальный идентификатор заказа (номер чека)
   
