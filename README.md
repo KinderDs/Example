@@ -29,7 +29,7 @@
 
 </details>
 
-<div>
+
 <details>
   <summary><b> 🛠 &nbsp;&nbsp;olist_orders_dataset.csv —  таблица заказов&nbsp;</b></summary>
 
@@ -48,7 +48,7 @@
 *  order_delivered_customer_date —  время доставки заказа
   
 *  order_estimated_delivery_date —  обещанная дата доставки
-</div>
+
 </details>
 
 olist_order_items_dataset.csv —  товарные позиции, входящие в заказы
