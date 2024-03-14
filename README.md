@@ -80,10 +80,12 @@
 
 ---
 # Стек:
-![Python](https://img.shields.io/badge/Python-orange?style=social&logo=python)
+![Python](https://img.shields.io/badge/Python-%23AFEEEE?style=for-the-badge&logo=Python&logoColor=yellow)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23AFEEEE?style=for-the-badge&logo=Seaborn)
+
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue?logo=seaborn&logoColor=white&style=for-the-badge)
+https://img.shields.io/badge/Seaborn-blue?logo=seaborn&logoColor=white&style=for-the-badge)
 ![Scipy](https://img.shields.io/badge/Scipy-blue?logo=Scipy&logoColor=white&style=for-the-badge)
